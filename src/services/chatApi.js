@@ -1,7 +1,6 @@
 import axios from "axios";
 
-const API_BASE_URL = "https://ai-server-h39l.onrender.com";
-
+const API_BASE_URL = "https://ai-server-2-lw4w.onrender.com";
 /**
  * Sends a message + conversation history to the backend and
  * returns the assistant's reply text.
